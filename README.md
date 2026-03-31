@@ -1,6 +1,6 @@
 ## 夜渡り地図帳 (Nightreign-Atlas)
 
-[![Downloads](https://img.shields.io/github/downloads/kokoukohiro/Nightreign-Atlas/total.svg?style=flat-square)](https://github.com/kokoukohiro/Nightreign-Atlas/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/kokoukohiro/Nightreign-Atlas/total.svg)](https://github.com/kokoukohiro/Nightreign-Atlas/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
 
 夜渡り地図帳 (Nightreign-Atlas)は、FromSoftwareのゲーム「エルデンリング ナイトレイン」をより遊びやすくするためのマップ検索ツールです。  
